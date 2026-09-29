@@ -1,0 +1,6 @@
+{
+  "name": "ToolForge AI",
+  "description": "Generate functional, sandboxed mini web tools from natural language prompts using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

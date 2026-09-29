@@ -1,0 +1,16 @@
+{
+  "name": "ToolForge AI",
+  "short_name": "ToolForge",
+  "description": "Instant Sandboxed AI Web Tools",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
